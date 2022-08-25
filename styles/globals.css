@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+body {
+  font-family: "Montserrat";
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+.alice-carousel__dots {
+  position: absolute;
+  top: 38rem !important;
+  right: 60rem !important;
+}
+
+.alice-carousel__dots-item {
+  width: 20px !important;
+  height: 14px !important;
+}
